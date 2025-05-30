@@ -20,7 +20,7 @@ Este projeto é uma aplicação simples de controle de estoque desenvolvida em P
    ```bash
    git clone https://github.com/Rikatoki/controle-estoque.git
 3. Navegue até o diretório do projeto:
-     cd lista-tarefas
+   cd lista-tarefas
 4 Execute o script:
   python lista_de_tarefas.py
 # 📄 Licença
